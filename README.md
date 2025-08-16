@@ -1,8 +1,8 @@
 # HTMX Integration Module for PrestaShop 9.0.
-might work in older versions
+might work in older versions with minor changes
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![PrestaShop Version](https://img.shields.io/badge/PrestaShop-1.7.x%20%7C%208.x-blue)
+![PrestaShop Version](https://img.shields.io/badge/PrestaShop-8.x%20%7C%209.x-blue)
 
 A secure, configurable, and easy-to-use PrestaShop module to add the latest version of [htmx.js](https://htmx.org/) to your shop's front office and back office.
 
@@ -38,7 +38,7 @@ This module is designed with security and stability in mind. It does nothing by 
 
 ### Compatibility
 
-*   PrestaShop `1.7.0.0` to `8.x`
+*   PrestaShop `8.0` to `9.x`
 
 ### Installation
 
