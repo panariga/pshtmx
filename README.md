@@ -42,7 +42,7 @@ This module is designed with security and stability in mind. It does nothing by 
 
 ### Installation
 
-1.  Go to the [Releases page](https://github.com/[Your GitHub Username]/pshtmx/releases) of this repository.
+1.  Go to the [Releases page](https://github.com/panariga/pshtmx/releases) of this repository.
 2.  Download the latest `pshtmx.zip` file.
 3.  In your PrestaShop Back Office, navigate to **Modules > Module Manager**.
 4.  Click the **"Upload a module"** button and select the `pshtmx.zip` file you downloaded.
